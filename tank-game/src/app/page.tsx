@@ -18,11 +18,11 @@ export default function Home() {
       </div>
 
       <header className="relative z-10 flex flex-col items-center">
-        <h1 className="bg-gradient-to-r from-amber-200 via-yellow-400 to-orange-500 bg-clip-text text-4xl font-black tracking-[0.35em] text-transparent drop-shadow-[0_0_25px_rgba(250,204,21,0.35)] sm:text-5xl">
-          WSLPIDEEPSEEK TANK BATTLE
+        <h1 className="bg-gradient-to-r from-amber-200 via-yellow-400 to-orange-500 bg-clip-text text-4xl font-black tracking-[0.18em] text-transparent drop-shadow-[0_0_25px_rgba(250,204,21,0.35)] sm:text-5xl">
+          坦克大战
         </h1>
         <p className="mt-2 font-mono text-[11px] uppercase tracking-[0.5em] text-slate-400">
-          Next.js · Canvas · 坦克大战
+          Next.js · Canvas · TANK BATTLE
         </p>
       </header>
 
